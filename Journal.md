@@ -1,25 +1,18 @@
 ###### 210830
-
-<p>
-  Play with some exercies on os, logging, argparse, *argv and **kwargs.<br>
-  A useful website: https://pymotw.com/2/contents.html <br>
-  It has many basic level of the Python library, but it's too detailed so referring to the website is enough.
-</p>
-
+Play with some exercies on os, logging, argparse, *argv and **kwargs.<br>
+A useful website: https://pymotw.com/2/contents.html <br>
+It has many basic level of the Python library, but it's too detailed so referring to the website is enough.
 
 ###### 210905
-
-<p>
-  Fix the code, the training results look bad.
-  Need to figure out how to cross validation and do the plotting.
-  Corey Shafer has good Python vedios on YouTube.
-</p>
-
+Fix the code, the training results look bad.
+Need to figure out how to cross validation and do the plotting.
+Corey Shafer has good Python vedios on YouTube.
 
 ###### 210906
+Last model took 15 hours to run, the output: <br>
+> 2021-09-06 12:36:07,434 192.168.0.1 lw      (Train_Nnet_Reg)[131]: The neural network training took 53874.44690489769s. <br>
+> 2021-09-06 12:36:15,565 192.168.0.1 lw      (Train_Nnet_Reg)[147]: The best_index 6675 with training R-sqaure as 0.8650941905354578, validation R-square as 0.08469912635937005, and training&validating R-squared as 0.26508608202870254. <br>
 
-<p>
-  Add the validation part.
-</p>
+From the log, I doubt the model is learning. Currently working on to add the validation part.
 
 
