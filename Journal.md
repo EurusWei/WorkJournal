@@ -7,8 +7,7 @@
 </p>
 
 
-
-_210905_
+###### 210905
 
 <p>
   Fix the code, the training results look bad.
@@ -17,6 +16,10 @@ _210905_
 </p>
 
 
+###### 210906
 
+<p>
+  Add the validation part.
+</p>
 
 
